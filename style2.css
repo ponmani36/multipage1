@@ -1,0 +1,40 @@
+
+    h1{
+          font-family: cursive;
+            color: blueviolet;
+            background-color: aliceblue;
+            width: 700px;
+            height: 70px;
+           padding-top: 20px;
+        }
+        body{
+            background-color: #E9F3BC;
+        }
+
+    button{
+        background-color:#F5D96B ; 
+        color:black;
+        background-size: 50px;
+    }
+#Welcom{
+    font-weight: bolder 20px;
+    font-size: 24px;
+    margin-bottom: 25px;
+}
+#par{
+    width: 400px;
+    font-size: 20px
+}
+#lb1{
+    font-size: 24px;
+}
+#input1{
+    width: 500px;
+}
+#img1{
+    margin: 30px;
+}
+label{
+    margin: 30px;
+    font-size: 20px;
+}

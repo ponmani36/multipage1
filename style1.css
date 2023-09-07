@@ -1,0 +1,50 @@
+h1{
+    color: darkblue;    
+    height: 70px;
+    background-color:#7AEBE7;
+    width: 700px;
+    padding: 20px;
+    font-family: 'Tilt Prism', cursive;
+   
+}
+h2{
+    font-family: serif;
+    color: #352199;
+}
+h3{
+    font-family: cursive;
+    color: #EC7272;
+}
+h4{
+    color: white;
+    font-family: fantasy;
+    margin-top: 20px;
+}
+     body {
+             background: linear-gradient(#6565C2 0% ,#7ADEEB 100%);
+}
+#btn1{
+    color: blue;
+    background-color: white;
+    border: 2px solid red;
+ 
+    margin-top: 70px
+
+}
+
+ input{
+            margin-top: 20px; 
+                text-align: center;
+        color: black;
+     
+             }
+label{
+width: 100px;
+display: inline-block;
+text-align: left;
+}
+#img1
+{
+    width: 500px;
+    height: 250px;
+}
